@@ -13,7 +13,7 @@ This project is an MySQL database exercise done as a class quiz. It covers creat
 4. **Created Index** – Added a composite index on `(student_id, course_id)` to speed up queries.
 5. **Created View** – Built `student_course_grades` to simplify access to student, course, and grade info.
 
-## ScreenShot
+## Screenshot
 
 <img width="661" height="137" alt="dbms" src="https://github.com/user-attachments/assets/26ec8c96-985b-4910-9aa0-07877f987c3c" />
 
