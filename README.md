@@ -5,7 +5,7 @@ a simple working solution in MySQL (XAMPP compatible) for your class quiz. we’
 
 This project is an MySQL database exercise done as a class quiz. It covers creating tables with constraints, inserting data, performing joins, creating an index, and making a view.
 
-## 🚀 What I Did
+## What I Did
 
 1. **Created Tables** – `students`, `courses`, and `enrollments` with primary keys, foreign keys, unique email, and not null constraints.
 2. **Inserted Data** – Added sample students, courses, and enrollments.
